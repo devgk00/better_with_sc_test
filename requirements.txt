@@ -1,0 +1,4 @@
+pandas
+smart-open==1.8.0
+pyarrow
+python-dotenv
